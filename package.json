@@ -1,0 +1,26 @@
+{
+  "name": "erc20-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastas0v/ERC20-Token.git"
+  },
+  "keywords": [
+    "Anastas0v"
+  ],
+  "author": "Anastas0v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anastas0v/ERC20-Token/issues"
+  },
+  "homepage": "https://github.com/Anastas0v/ERC20-Token#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "hardhat": "^2.9.3"
+  }
+}
